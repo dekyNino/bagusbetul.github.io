@@ -7,7 +7,41 @@
         padding: 0px;
     }
 
-    .btn span {
-        padding: 10px;    
+    /* HEADER */
+    .menu-block {
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+        width: 100%;
+    }
+
+    .main-cover-text {
+        font-size: 30px;
+    }
+
+    .sub-cover-text {
+        font-size: 18px;
+        letter-spacing: 6px;
+    }
+
+    /* MAIN */
+    /* Top */
+    .main-top {
+        padding: 0 30px;
+    }
+
+    /* Card */
+    .main-background {
+        height: 300vh;
+    }
+
+    .cards {
+        margin: 0 auto;
+        padding: 0 35px;
+    }
+
+    .card-1, .card-2, .card-3, .card-4, .card-5 {
+
+        width: 100%;
+        margin-top: 25px;
     }
 }
