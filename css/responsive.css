@@ -4,11 +4,12 @@
 
 @media (max-width: 670px) {
     body {
-        padding: 0px;
+        padding: 0px 0px;
     }
 
     /* HEADER */
     .menu-block {
+        height: 40px;
         border-bottom-left-radius: 0px;
         border-bottom-right-radius: 0px;
         width: 100%;
