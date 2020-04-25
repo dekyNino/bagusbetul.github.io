@@ -1,0 +1,13 @@
+@media (max-width: 1000px) {
+
+}
+
+@media (max-width: 670px) {
+    body {
+        padding: 0px;
+    }
+
+    .btn span {
+        padding: 10px;    
+    }
+}
